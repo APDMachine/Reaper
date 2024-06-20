@@ -2,7 +2,7 @@
 ### Last Updated *20/06/2024*
 *Project Owner:* [APD-Machines](https://github.com/APD-Machines)
 
-![image](https://github.com/APDMachine/Reaper/assets/5345379/a68000d6-e90e-498c-a02e-18058bc2c047)
+![image](https://github.com/APDMachine/Reaper/assets/5345379/e835caf8-0fcd-4f7e-b674-f78b83ce203f)
 
 [![Join me on Discord](https://discord.com/api/guilds/1250989766359388200/widget.png?style=banner2)](https://discord.gg/SHj5zEdzqZ)
 > [!NOTE]
