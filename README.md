@@ -5,6 +5,11 @@
 > [!NOTE]
 > This project is under-going heavy testing and there are changes happening all the time. 
 > USE AT YOUR OWN RISK
+
+# Guides 
+## > [Part Selection](https://github.com/APDMachine/Reaper/blob/main/Part_Selection.md)
+## > [Installation Manual](https://github.com/APDMachine/Reaper/blob/main/Installation_Manual.md)
+
 ## Supported hotends
 - Phaetus Dragon Standard
 - Phaetus Dragon HF
