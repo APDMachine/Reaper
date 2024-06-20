@@ -6,7 +6,8 @@
 > This project is under-going heavy testing and there are changes happening all the time. 
 > USE AT YOUR OWN RISK
 ## Supported hotends
-- Phaetus Dragon ST/HF
+- Phaetus Dragon Standard
+- Phaetus Dragon HF
 - Phaetus Dragon UHF
 - Phaetus Rapido 1.0
 - Phaetus Rapido 2.0
@@ -18,6 +19,7 @@
 - Slice Mosquito Magnum+
 - BambuLab
 - VZ Goliath
+- Chube
   
 ## Supported extruders
 - Balrog
