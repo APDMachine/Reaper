@@ -24,7 +24,20 @@ of the hole if you have the 5mm long ones.
 ## 1: Carriages: ***skip if using TAP***
 ### Reaper Carriages
 ![carriages-labeled](https://github.com/APD-Machines/Reaper/assets/5345379/fbcacf18-29ad-463f-90ae-3c9d665c963b)
-
+| Carriage  | Extruder |
+| ------------- | ------------- |
+| C (Centre)  | Balrog  |
+| | Sherpa Mini |
+| | Hextrudort High |
+| | LGX Lite |
+| | LGX Lite Pro |
+| | Hummingbird |
+| L (Left) | Hextrudort |
+| | Orbiter v1.5 |
+| R (Right) | Orbiter v2 |
+| | Galileo2 Stand-alone |
+| | Wristwatch (Galileo2 internals) |
+| | Orbiter V2 can be left or right depending on your extruder |
 
 - Choose your rail size
 - Choose belt size (if applicable 6mm only for MGN9H).
