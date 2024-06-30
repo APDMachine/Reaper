@@ -21,9 +21,8 @@
 - Phaetus Dragon Standard
 - Phaetus Dragon HF
 - Phaetus Dragon UHF
-- Phaetus Rapido 1.0
-- Phaetus Rapido 2.0
-- Phaetus Rapido 2.0 UHF
+- Phaetus Rapido 1.0 HF/UHF
+- Phaetus Rapido 2.0 HF/UHF
 - Dropeffect NextG
 - Dropeffect NextG UHF
 - Revo Voron
@@ -39,10 +38,10 @@
 - Orbiter V2
 - Hextrudort
 - Hextrudort High
-- LGX Lite
+- LGX Lite V1 + V2
 - LGX Lite Pro
 - Hummingbird
-- G2SE
+- G2SA
 
   
 ***For all of these besides mine and the LGX’s you will need to sort out what
