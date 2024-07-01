@@ -50,6 +50,10 @@ extruders.
 ## 2: Extruder
 These plates match to your specific extruder only, they
 are universal for carriages and hotends. They all vary on size based on motor placement, choose which works best. 
+> [!WARNING]
+> All extruders other than ***LGX Lite Variants***,***Balrog*** & ***G2SA*** will need a solution for the tension screw's.
+> This is currently outside the scope of this project. Contact us for more info
+
 ***If using TAP, go into the folderstarting with it***
 
 ## 3: Hotend
