@@ -2,19 +2,18 @@
 ### Last Updated *03/07/2024*
 *Project Owner:* [APD-Machines](https://github.com/APD-Machines)
 
-![image](https://github.com/APDMachine/Reaper/assets/5345379/0867423c-27bd-4cb8-a8d3-a0b3279f5672)
+# Guides 
 
+## > [APDM Website](https://apdm.tech)
+## > [Reaper Configurator](https://apdm.tech/parts.php) <-- START HERE
+## > [Installation Manual](https://apdm.tech/manual.php)
+
+![image](https://github.com/APDMachine/Reaper/assets/5345379/0867423c-27bd-4cb8-a8d3-a0b3279f5672)
 
 [![Join me on Discord](https://discord.com/api/guilds/1250989766359388200/widget.png?style=banner2)](https://discord.gg/SHj5zEdzqZ)
 > [!NOTE]
 > This project is under-going heavy testing and there are changes happening all the time. 
 > USE AT YOUR OWN RISK
-
-# Guides 
-
-## > [APDM Website](https://apdm.tech)
-## > [Reaper Configurator](https://apdm.tech/parts.php)
-## > [Installation Manual](https://apdm.tech/manual.php)
 
 ![blownout](https://github.com/APDMachine/Reaper/assets/5345379/003486af-e64d-44fc-ad1c-43dd299c1af0)
 
