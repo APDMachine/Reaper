@@ -56,9 +56,6 @@ to do with the adjustment screw.***
 
   
 ![assembly](https://github.com/APDMachine/Reaper/assets/5345379/f9561356-70b7-435a-9c6b-3b40e22e0189)
-  
-![toolhead-cad](https://github.com/APD-Machines/Reaper/assets/5345379/3ad8f4f4-4203-4fb9-accf-b0af296a7677)
-
 
 # Original Inspiration
 [Mantis Toolhead](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) was the initial inspiration behind Reaper and much thanks and credit to their initial work.
