@@ -1,4 +1,4 @@
-# Reaper Toolhead
+# [Reaper Toolhead](https://apdm.tech)
 ### Last Updated *26/06/2024*
 *Project Owner:* [APD-Machines](https://github.com/APD-Machines)
 
@@ -12,8 +12,9 @@
 
 # Guides 
 
-## > [Part Selection](https://github.com/APDMachine/Reaper/blob/main/Part_Selection.md)
-## > [Installation Manual](https://github.com/APDMachine/Reaper/blob/main/Installation_Manual.md)
+## > [APDM Website](https://apdm.tech)
+## > [Reaper Configurator](https://apdm.tech/parts.php)
+## > [Installation Manual](https://apdm.tech/manual.php)
 
 ![blownout](https://github.com/APDMachine/Reaper/assets/5345379/003486af-e64d-44fc-ad1c-43dd299c1af0)
 
