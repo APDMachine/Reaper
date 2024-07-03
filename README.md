@@ -30,7 +30,6 @@
 - Slice Mosquito Magnum+
 - BambuLab
 - VZ Goliath
-- Chube
   
 ## Supported extruders
 - Balrog
