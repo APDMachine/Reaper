@@ -80,13 +80,10 @@ Select the appropriate hotend making sure it matches the carriage style youve se
 | | Dragon UHF |
 | Overkill | Goliath  |
 | | Mosquito Magnum+ |
-| Chube | Chube |
 
 Select which style duct for your appropriate lenght. Table above outlines which ducts support which hotend.
-- Works
+- LED
 - NoLed
-- NoGrill
-- Naked
 
   
 ## 5: Grill 
