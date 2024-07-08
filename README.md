@@ -5,8 +5,8 @@
 # Guides 
 
 ## > [APDM Website](https://apdm.tech)
-## > [Reaper Configurator](https://apdm.tech/parts.php) <-- START HERE
-## > [Installation Manual](https://apdm.tech/manual.php)
+## > [Reaper Configurator](https://apdm.tech/?x=parts) <-- START HERE
+## > [Installation Manual](https://apdm.tech/?x=manual)
 
 ![image](https://github.com/APDMachine/Reaper/assets/5345379/0867423c-27bd-4cb8-a8d3-a0b3279f5672)
 
