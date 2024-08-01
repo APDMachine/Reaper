@@ -17,6 +17,8 @@
 
 ![blownout](https://github.com/APDMachine/Reaper/assets/5345379/003486af-e64d-44fc-ad1c-43dd299c1af0)
 
+## Reaper uses a 3010 HE fan and dual 5015 part cooling fans.
+
 ## Supported hotends
 - Phaetus Dragon Standard
 - Phaetus Dragon HF
