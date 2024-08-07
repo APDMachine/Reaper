@@ -1,7 +1,7 @@
 
 # Hotend Mount for Mellow NF Crazy Volcano (should also work for Mosquito Magnum) 
 
-![Image of hotend nount](http://vorondesign.com/images/voron2.4.jpg](https://github.com/PrintStructor/Reaper/blob/main/Usermods/PrintStructor/HE%20Mount%20NF%20Crazy%20Volcano/images/IMG_7464.PNG?raw=true))
+![Image of hotend nount](https://github.com/PrintStructor/Reaper/blob/main/Usermods/PrintStructor/HE%20Mount%20NF%20Crazy%20Volcano/images/IMG_7464.PNG?raw=true)
 
 ![alt text]([https://github.com/PrintStructor/Reaper/blob/main/Usermods/PrintStructor/HE%20Mount%20NF%20Crazy%20Volcano/images/IMG_7464.PNG)
 
