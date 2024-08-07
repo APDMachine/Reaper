@@ -1,6 +1,8 @@
 
 # Hotend Mount for Mellow NF Crazy Volcano (should also work for Mosquito Magnum) 
 
+![Image of reaper toolhead](https://github.com/PrintStructor/Reaper/blob/main/Usermods/PrintStructor/HE%20Mount%20NF%20Crazy%20Volcano/images/IMG_7459.PNG?raw=true)
+
 ![Image of hotend nount](https://github.com/PrintStructor/Reaper/blob/main/Usermods/PrintStructor/HE%20Mount%20NF%20Crazy%20Volcano/images/IMG_7464.PNG?raw=true)
 
 I designed the opening for the fan on the front so that there is as much open space as possible. The air is then channelled cleanly to the rear directly to the heatbreak and flows around it optimally. I also created 2 optional holes at the top for a complete screw connection of the fan. 
