@@ -1,7 +1,7 @@
 
-# Hotend Mount for Mellow NF Crazy Volcano (should also work for Mosquito Magnum) 
+# Grill 1 - Cheese Grater Insert - Skeletor Logo - Bugfix for Lower Grill Shell Clamp 
 
-![Image of reaper toolhead](https://github.com/PrintStructor/Reaper/blob/main/Usermods/PrintStructor/HE%20Mount%20NF%20Crazy%20Volcano/images/IMG_7459.PNG?raw=true)
+![Image of reaper toolhead](https://github.com/PrintStructor/Reaper/blob/main/Usermods/PrintStructor/Custom%20Grill%201%20and%20Skeletor%20Logo/images/IMG_7484.jpeg?raw=true)
 
 I designed the opening for the fan on the front so that there is as much open space as possible. The air is then channelled cleanly to the rear directly to the heatbreak and flows around it optimally. I also created 2 optional holes at the top for a complete screw connection of the fan. 
 ![alt text](https://github.com/PrintStructor/Reaper/blob/main/Usermods/PrintStructor/HE%20Mount%20NF%20Crazy%20Volcano/images/IMG_7470.PNG?raw=true)
