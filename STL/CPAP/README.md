@@ -15,6 +15,8 @@
 This is a first iteration on CPAP integration for Reaper. 
 THESE PARTS ARE STILL UNDERGOING DEVELOPMENT AND CHANGES.
 
+*Use Classic Wall Generator in your slicer, Arachne has issues with thin walls and/or gap fill and will cause surface quality issues.*
+
 ***You will need to add support to the bottom sections of the interface as well as under the mount ear. There is an image on the Discord in #reapers-blow-cpap showing where. These are the only places supports are needed until we sort out built in supports in the model.***
 
 [![Join me on Discord](https://discord.com/api/guilds/1250989766359388200/widget.png?style=banner2)](https://discord.gg/SHj5zEdzqZ)
