@@ -1,18 +1,22 @@
-# [Reaper Toolhead](https://apdm.tech)
-### Last Updated *03/07/2024*
-*Project Owner:* [APD-Machines](https://github.com/APD-Machines)
+# [Reaper Toolhead](https://reapertoolhead.com)
+### Toolhead Last Updated *03/07/2024*
+### GitHub Last Updated *01/12/2025*
+*Project Owner:*  [APD-Machines](https://github.com/APD-Machines)
+*Maintained By:*  [KrauTech](https://github.com/krautech)
+
+
 
 # Guides 
 
-## > [APDM Website](https://apdm.tech)
-## > [Reaper Configurator](https://apdm.tech/?x=parts) <-- START HERE
-## > [Installation Manual](https://apdm.tech/?x=manual)
+## > [Reaper Website](https://reapertoolhead.com)
+## > [Reaper Configurator](https://reapertoolhead.com/?x=parts) <-- START HERE
+## > [Installation Manual](https://reapertoolhead.com/?x=manual)
 
 ![image](https://github.com/APDMachine/Reaper/assets/5345379/0867423c-27bd-4cb8-a8d3-a0b3279f5672)
 
 [![Join me on Discord](https://discord.com/api/guilds/1250989766359388200/widget.png?style=banner2)](https://discord.gg/SHj5zEdzqZ)
 > [!NOTE]
-> This project is under-going heavy testing and there are changes happening all the time. 
+> This project is now completed and no longer being worked on by the designer however the community on discord is still strong and the project is community driven.
 > USE AT YOUR OWN RISK
 
 ![blownout](https://github.com/APDMachine/Reaper/assets/5345379/003486af-e64d-44fc-ad1c-43dd299c1af0)
