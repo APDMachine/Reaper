@@ -1,6 +1,6 @@
 # Reaper Switchwire Carriage
 
-A custom version of the Reaper carriage designed for **Voron Switchwire** conversions.
+A custom version of the Reaper carriage designed for **Voron Switchwire**.
 
 I wanted to use the Reaper toolhead on my Switchwire conversion, so I designed this carriage with the help of [APDMachine](https://github.com/APDMachine).
 
@@ -39,7 +39,7 @@ To assemble the carriage, you will need:
 
 ## Recommended Print Settings
 
-These settings follow the **Voron Design guidelines** for functional mechanical parts.
+These settings follow the [**Voron Design guidelines**](https://docs.vorondesign.com/sourcing.html) for functional mechanical parts.
 
 ### 3D Printing Process
 - FDM (Fused Deposition Modeling)
@@ -66,11 +66,6 @@ These settings follow the **Voron Design guidelines** for functional mechanical 
 - These settings prioritize strength over speed or material usage  
 - Use an enclosure for ABS/ASA  
 - Poor layer adhesion will reduce mechanical strength significantly  
-
----
-
-## Printing Notes
-
 - Print all parts in the orientation provided in the STL files  
 - No supports required for main parts  
 - Supports required only for belt clips
@@ -85,7 +80,7 @@ These settings follow the **Voron Design guidelines** for functional mechanical 
 
 <img src="images/step1.1.jpg" height="300"> <img src="images/step1.2.jpg" height="300">
 
-<u>2. Klicky assembly</u>
+<u>2. Klicky assembly :</u>
 
 - strip the wires on 20mm.
 
@@ -99,7 +94,7 @@ These settings follow the **Voron Design guidelines** for functional mechanical 
 
 <img src="images/step2.5.jpg" height="300"> <img src="images/step2.6.jpg" height="300">
 
-<u>3. belt clips assembly</u>
+<u>3. Belt clips assembly :</u>
 
 - install the rear part of the carriage using the center screw ( M3 x 15mm ) do not tighten it
 
@@ -117,16 +112,19 @@ These settings follow the **Voron Design guidelines** for functional mechanical 
 
 <img src="images/step3.4.jpg" height="300">
 
-<u>4. follow the [Installation Manual](https://github.com/APDMachine/Reaper/blob/main/Manual/Manual.pdf) to finish the toolhead assembly</u>
+<u>4. Follow the [Installation Manual](https://github.com/APDMachine/Reaper/blob/main/Manual/Manual.pdf) to finish the toolhead assembly</u>
+
+<u>5. For the Klicky Servo Dock assembly</u> 
+
+- the assembly remains the same as on the [Klicky Probe (Switchwire version)](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/Switchwire) but you have to use the arms I shortened because the reaper carriage is shorter than the original Voron carriage (the belts position remains the same)
 
 ---
 
 ## Compatibility
 
 - Voron Switchwire  
-- Reaper Toolhead  
-- Klicky Probe (Switchwire version only for now)
-
+- Reaper Toolhead [( with the old v1 extruder mounts )](https://github.com/APDMachine/Reaper/tree/main/STL/Extruder%20Mounts/Reaper/old%20v1) 
+- [Klicky Probe (Switchwire version)](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/Switchwire)
 ---
 
 ## Credits
